@@ -1,4 +1,4 @@
-const BACKGROUND = "mountain.jpg";
+const BACKGROUND = "jungle.jpg";
 const BRIGHTNESS = 0.2;
 const COLOR = "white";
 const SIZE = 140;
